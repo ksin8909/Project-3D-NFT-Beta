@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Project-3D-NFT-Beta/static/css/main.7f46b32a.css",
-    "main.js": "/Project-3D-NFT-Beta/static/js/main.6604ccd2.js",
+    "main.js": "/Project-3D-NFT-Beta/static/js/main.51fd79e3.js",
     "static/js/787.eea77018.chunk.js": "/Project-3D-NFT-Beta/static/js/787.eea77018.chunk.js",
     "static/media/AlteHaasGroteskRegular.ttf": "/Project-3D-NFT-Beta/static/media/AlteHaasGroteskRegular.6ae6623ec966c59db9f2.ttf",
     "static/media/home-02.webp": "/Project-3D-NFT-Beta/static/media/home-02.1391b9d1503f267c08c3.webp",
     "index.html": "/Project-3D-NFT-Beta/index.html",
     "main.7f46b32a.css.map": "/Project-3D-NFT-Beta/static/css/main.7f46b32a.css.map",
-    "main.6604ccd2.js.map": "/Project-3D-NFT-Beta/static/js/main.6604ccd2.js.map",
+    "main.51fd79e3.js.map": "/Project-3D-NFT-Beta/static/js/main.51fd79e3.js.map",
     "787.eea77018.chunk.js.map": "/Project-3D-NFT-Beta/static/js/787.eea77018.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f46b32a.css",
-    "static/js/main.6604ccd2.js"
+    "static/js/main.51fd79e3.js"
   ]
 }
